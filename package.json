@@ -1,0 +1,28 @@
+{
+  "name": "simple-webhook-server",
+  "version": "1.0.0",
+  "description": "A simple webhook server for node.js in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shourgamer2/express-webhook-server.git"
+  },
+  "keywords": [
+    "webhook",
+    "express",
+    "node.js"
+  ],
+  "author": "Shourjjo Majumder (shourgamer2)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shourgamer2/express-webhook-server/issues"
+  },
+  "homepage": "https://github.com/shourgamer2/express-webhook-server#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
