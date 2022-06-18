@@ -19,4 +19,9 @@ Then run it !
 node .
 ```
 ### Usage for cloud users
-If your using it on cloud look in the console/logs in your dashboard and you will find all of the messages !
+If your using it on cloud look in the console/logs in your dashboard and you will find all of the messages ! <br>
+If you are using heroku then go to resources and enable the web process <br>
+If you are using replit then click on the three dots and select "Show hidden files" and you should see the .replit file go inside that file and type: <br>
+```sh
+run = "node index.js"
+```
