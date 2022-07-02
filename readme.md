@@ -1,5 +1,5 @@
 ### Welcome
-This is a simple express-webhook-server ! 
+This is a simple express-webhook-server 
 ### Deploy to cloud
 Heroku <br>
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shourgamer2/express-webhook-server) <br>
