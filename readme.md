@@ -16,7 +16,7 @@ npm i
 ```
 Then run it !
 ```sh
-node .
+node index.js
 ```
 ### Usage for cloud users
 If your using it on cloud look in the console/logs in your dashboard and you will find all of the messages ! <br>
